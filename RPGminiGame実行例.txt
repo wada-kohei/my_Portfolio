@@ -1,0 +1,75 @@
+The satan is hiding in one of the places 1-5.
+Decide where your hero hides from 1-5.       
+3
+
+Choose from 1 to 5 where the hero will attack.
+2
+Decide the power that the hero will use to attack in the range of 1-100.
+20
+
+Your hero attacks!
+The remaining power of the hero is 80 .
+The hero's attack has been evaded.     
+
+It is an attack of the enemy satan.    
+Press enter.
+
+Your enemy Satan attacks!
+The satan's attack has been evaded.
+
+It can be dangerous to stay in the same place. Let's move.
+The satan is hiding in one of the places 1-5.
+Decide where your hero hides from 1-5.
+5
+
+Choose from 1 to 5 where the hero will attack.
+4
+Decide the power that the hero will use to attack in the range of 1-100.
+20
+
+Your hero attacks!
+The remaining power of the hero is 60 .
+The hero's attack has been evaded.
+
+It is an attack of the enemy satan.
+Press enter.
+
+Your enemy Satan attacks!
+The satan's attack has been evaded.
+
+It can be dangerous to stay in the same place. Let's move.
+The satan is hiding in one of the places 1-5.
+Decide where your hero hides from 1-5.
+4
+
+Choose from 1 to 5 where the hero will attack.
+1
+Decide the power that the hero will use to attack in the range of 1-100.
+20
+
+Your hero attacks!
+The remaining power of the hero is 40 .
+The hero's attack has been evaded.
+
+It is an attack of the enemy satan.
+Press enter.
+
+Your enemy Satan attacks!
+The satan's attack has been evaded.
+
+It can be dangerous to stay in the same place. Let's move.
+The satan is hiding in one of the places 1-5.
+Decide where your hero hides from 1-5.
+1
+
+Choose from 1 to 5 where the hero will attack.
+3
+Decide the power that the hero will use to attack in the range of 1-100.
+10
+
+Your hero attacks!
+The remaining power of the hero is 30 .
+Your enemy Satan was attacked by your hero.
+The satan's power is exhausted.
+
+Your hero's victory. Congratulations!
